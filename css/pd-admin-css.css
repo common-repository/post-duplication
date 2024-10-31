@@ -1,0 +1,12 @@
+.pdwp-wrap form table.form-table tbody tr{
+	float: left; 
+	width: 40%;
+}
+
+.pdwp-wrap form table.form-table tbody tr:last-child{
+	width:60%;
+}
+
+.pdwp-wrap form table.form-table tbody tr th{ 
+	width: 97px;
+}
